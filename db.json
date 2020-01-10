@@ -80,7 +80,7 @@
 
 
   {
-    "employee_id":3,
+    "id":3,
     "employee_firstname":"alex",
     "employee_lastname":"owusu",
     "employee_phonenumber": "0542698031",
@@ -113,7 +113,7 @@
 
 
   {
-    "employee_id":4,
+    "id":4,
     "employee_firstname":"john",
     "employee_lastname":"erbynn",
     "employee_phonenumber": "0542698031",
@@ -153,7 +153,7 @@
 
 
   {
-    "employee_id":  5,
+    "id":  5,
     "employee_firstname":"bartels",
     "employee_lastname":"sam",
     "employee_phonenumber": "0542698031",
