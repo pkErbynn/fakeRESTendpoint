@@ -1,7 +1,7 @@
 { "available-employees":
  [
   {
-      "employee_id":1,
+      "id":1,
       "employee_firstname":"Patricia",
       "employee_lastname":"Agyekum",
       "employee_phonenumber": "0542698031",
@@ -33,7 +33,7 @@
   },
 
   {
-      "employee_id":2,
+      "id":2,
       "employee_firstname":"dawud",
       "employee_lastname":"ibrahim",
       "employee_phonenumber": "0542698031",
